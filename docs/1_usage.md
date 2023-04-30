@@ -67,8 +67,8 @@ Learn how to use the ReVanced CLI.
     option `-e vanced-microg-support` when mounting for example.
 >
 > - Some patches from [ReVanced Patches](https://github.com/revanced/revanced-patches) also might require
-    [ReVanced Integrations](https://github.com/revanced/revanced-integrations). Supply them with the option `-m`.
-    > The integrations will be merged, if necessary automatically, if supplied.
+    [ReVanced Integrations](https://github.com/revanced/revanced-integrations). Supply them with the option `-m`. 
+>  The integrations will be merged, if necessary integrations will be used automatically, if supplied using the `-m` command.
 >
 > - If you supplied a device with the option `-d`, the patched application will be automatically installed on the
     device.
